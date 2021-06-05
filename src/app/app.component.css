@@ -1,0 +1,11 @@
+p {
+  font-family: Lato;
+}
+
+.card {
+  display: inline-block;
+  min-width: 50px;
+  min-height: 50px;
+  border: 1px solid #000;
+  margin: 10px;
+}
